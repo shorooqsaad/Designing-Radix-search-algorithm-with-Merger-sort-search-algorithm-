@@ -1,5 +1,5 @@
 # Designing-Radix-search-algorithm-with-Merger-sort-search-algorithm-
-# Designing Radix with Merger sort-(Comparison method). Which is a Stable algorithm 
+* Designing Radix with Merger sort-(Comparison method). Which is a Stable algorithm 
 and we can make sure in each case the running time will be the same.
 * Radix calling merge:
 -getmax(): O(n) 
